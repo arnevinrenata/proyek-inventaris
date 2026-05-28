@@ -1,0 +1,14 @@
+[
+    {
+        "nama": "Komputer",
+        "kategori": "Elektronik",
+        "jumlah": 30,
+        "harga": 50000000
+    },
+    {
+        "nama": "Laptop",
+        "kategori": "Elektronik",
+        "jumlah": 20,
+        "harga": 30000000
+    }
+]
